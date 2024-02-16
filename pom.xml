@@ -40,7 +40,9 @@
 
 
 
+
+
 	</dependencies>
 
-	
+	<build><finalName>springbootdemo</finalName></build>
 </project>
